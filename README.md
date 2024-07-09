@@ -1,3 +1,3 @@
 # Pricer-Equity
 
-An Autocall Pricer and other equity products with differents volatility models implemented
+An Autocall Pricer as well as other equity products with differents volatility models
